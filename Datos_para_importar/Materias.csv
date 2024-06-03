@@ -1,0 +1,200 @@
+id_materia,materia
+1,Aeronautica I
+2,Algebra y geometria analitica
+3,Analisis matematico I
+4,Fisica I
+5,Quimica general
+6,Ingenieria y sociedad
+7,Sistemas de representacion
+8,Computacion
+9,Ingles I
+10,Aeronautica II
+11,Probabilidad y estadistica
+12,Estructura Aeronautica I
+13,Analisis matematico II
+14,Fisica II
+15,Ciencia de los materiales I
+16,Mecanica
+17,Ciencia de los materiales II
+18,Matematicas aplicadas a la aeronautica
+19,Sistemas del avion
+20,Economia
+21,Estructura aeronautica II
+22,Electrotecnia
+23,Mecanica del continuo
+24,Termodinamica tecnica
+25,Electrotecnia
+26,Mecanica de los fluidos
+27,Proyecto y diseño aerodinamico
+28,Estructura aeronautica III
+29,Mecanismos
+30,Sistemas de control
+31,Aerodinamica teorica
+32,Instrumentos y mediciones
+33,Organización industrial
+34,Ingles II
+35,Mecanica del vuelo
+36,Propulsion
+37,Proyecto y dis. estr. Aeronautica
+38,Legislacion
+39,Procesos de fabricacion de aviones
+40,Normativa aeronautica
+41,Mantenimiento general de la aeronave
+42,"Aeropuerto, aeronavegacion e impacto amiental"
+43,Electiva
+44,Practica supervisada
+45,Ingenieria civil I
+46,Fundamentos de informatica
+47,Estabilidad
+48,Ingenieria civil II
+49,Tecnologia de los materiales
+50,Resistencia de los materiales
+51,Tecnologia del hormigon
+52,Tecnologia de la construccion
+53,Geotopografia
+54,Hidraulica general y aplicada
+55,Calculo avanzado
+56,Instalaciones electricas y acusticas
+57,Instalaciones termomecanicas
+58,Geotecnia
+59,Instalaciones sanitarias y de gas
+60,"Diseño arquitecnotico, planeamiento y urbanismo"
+61,Analisis estructural I
+62,Estructuras de Hormigon
+63,Hidrologia y obras hidraulicas
+64,Ingenieria legal
+65,Construcciones metalicas y de madera
+66,Cimentaciones
+67,Ingenieria sanitaria
+68,Organización y conduccion de oras
+69,Vias de comunicación I
+70,Analisis estructural II
+71,Vias de comunicación II
+72,Proyecto final
+73,Integracion electrica I
+74,Mecanica tecnica
+75,Integracion electrica II
+76,Calculo numerico
+77,Tecnologia y ensayo de materiales electricos
+78,Instrumentos y mediciones electricas
+79,Teoria de los campos
+80,Fisica III
+81,Maquinas electricas
+82,Electrotecnia II
+83,Termodinamica
+84,Fundamentos para el analisis de señales
+85,Electronica I
+86,Maquinas electricas II
+87,"Seguridad, riesgo electrico y medio ambiente"
+88,Instalaciones electricas y luminotecnia
+89,Control automatico
+90,"Maquinas termicas, hidraulicas y de fluido"
+91,Electrotecnia II
+92,"Generacion, transmision y distribucion de la energia eleectrica"
+93,Sistemas de potencia
+94,Accionamientos y controles electricos
+95,Organización y administracion de empresas
+96,Ingenieria electromecanica
+97,Representacion grafica
+98,Ingenieria electromecanica II
+99,Conocimiento de los materiales
+100,Programacion en computacion
+101,Tecnologia mecanica
+102,Ingenieria electromecanica II
+103,Mecanica y mecanismos
+104,Termodinamica termica
+105,Matematica discreta
+106,Sistemas y organizaciones
+107,Algoritmo y estructura de datos
+108,Arquitectura de computadoras
+109,Quimica
+110,Analisis de sistemas
+111,Sintaxis y semantica de los lenguajes
+112,Paradigmas de programacion
+113,Sistemas operativos
+114,Diseños de sistemas
+115,Comunicaciones
+116,Matematica superior
+117,Gestion de datos
+118,Inteligencia artificial
+119,Administracion gerencial
+120,Sistemas de gestion
+121,Informatica I
+122,Pensamiento sistemico
+123,Administracion general
+124,Informatica II
+125,Costos y presupuestos
+126,Estudio del trabajo
+127,Comercializacion
+128,Termodinamica y maquinas termicas
+129,Estatica y resistencia de los materiales
+130,Economia de la empresa
+131,Electrotecnia y maquinas electricas
+132,Analisis numerico y calculo avanzado
+133,"Seguridad, higiene e ingenieria ambiental"
+134,Investigacion operativa
+135,Procesos industriales
+136,Mecanica y mecanismos
+137,Evaluacion de proyectos
+138,Planificacion y control de produccion
+139,Diseño de producto
+140,Instalaciones industriales
+141,Mantenimiento
+142,Manejo de materiales y distribucion de plantas
+143,Comercio exterior
+144,Relaciones industriales
+145,Ingenieria en calidad
+146,Control de gestion
+147,Ingenieria mecanica
+148,Quimica aplicada
+149,Materiales metalicos
+150,Ingenieria ambiental y seguridad industrial
+151,Ingenieria mecanica II
+152,Mecanica racional
+153,Mediciones y ensayos
+154,Diseño mecanico
+155,Ingenieria mecanica III
+156,Estabilidad II
+157,Elementos de maquina
+158,Tecnologia del calor
+159,Metrologia e ingenieria de la calidad
+160,Electronica y sistemas de control
+161,Tecnologia de fabricacion
+162,Maquinas alternativas y turbomaquinas
+163,Organizacion industrial
+164,Integracion
+165,Integracion II
+166,Quimica inorganica
+167,Quimica organica
+168,Matematica superior aplicada
+169,Integracion III
+170,Mecanica electrica industrial
+171,Fisico quimica
+172,Fenomenos de transporte
+173,Quimica analitica
+174,Integracion IV
+175,Operaciones unitarias
+176,Tecnologia de la energia termica
+177,Biotecnologia
+178,Operaciones unitarias II
+179,Ingenieria de las reacciones quimicas
+180,Control estadisticos de procesos
+181,Control automatico de procesos
+182,Analisis de señales y sistemas
+183,Fisica electronica
+184,Teoria de los circuitos
+185,Tecnicas digitales
+186,Dispositivos electronicos
+187,Electronica aplicadas
+188,Medios de enlace
+189,Tecnicas digitales II
+190,Medidas electronicas I
+191,Teoria de los circuitos II
+192,Maquinas e instalaciones electricas
+193,Sistemas de comunicaciones
+194,Electronica aplicada II
+195,Tecnicas digitales III
+196,Medidas electronicas II
+197,Electronica aplicada III
+198,Tecnologia electronica
+199,Electronica de potencia

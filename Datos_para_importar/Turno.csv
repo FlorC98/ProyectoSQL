@@ -1,0 +1,9 @@
+id_turno,dias,turno,horario
+1,LuMie,M,8-12hs
+2,LuMie,T,13-17hs
+3,MaJue,M,8-12hs
+4,MaJue,T,13-17hs
+5,MaJue,N,18-22hs
+6,LuMie,N,18-22hs
+7,Sab,M,8-12hs
+8,Sab,T,13-17hs
